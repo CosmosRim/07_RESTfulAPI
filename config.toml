@@ -1,0 +1,10 @@
+#database type
+DBType = "mysql"
+
+#information of source data
+[DbInfo]
+DBUser = "zhuyu_mysql_docker"
+DBPwd = "zhuyu"
+DBIp = "127.0.0.1"
+DBPort = 12611
+DBName = "mysql"
