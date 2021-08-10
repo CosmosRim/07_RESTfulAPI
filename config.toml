@@ -5,6 +5,6 @@ DBType = "mysql"
 [DbInfo]
 DBUser = "zhuyu_mysql_docker"
 DBPwd = "zhuyu"
-DBIp = "127.0.0.1"
+DBIP = "127.0.0.1"
 DBPort = 12611
 DBName = "mysql"
